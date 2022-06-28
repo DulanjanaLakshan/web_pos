@@ -4,12 +4,13 @@
  **/
 body{
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 #Home{
     position: relative;
     width: 100%;
     height: 891px;
-    background-image: url("../img/Pos.jpg");
+    background-image: url("Pos.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
