@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("customer")
+@RequestMapping("api/customer")
 @CrossOrigin
 public class CustomerController {
     @Autowired
